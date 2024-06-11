@@ -14,6 +14,7 @@ function App() {
       <h1 className='bg-yellow-600 text-black p-4 rounded-xl mb-4'> Tailwind css</h1>
       <Card name="bottlers Arsenal" btnText="Click Me" />
       <Card name={myObj.name} btnText="Vist Me" />
+      <Card name="Pravesh" />
       <Card />
     </>
   )
