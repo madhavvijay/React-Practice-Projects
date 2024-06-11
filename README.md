@@ -1,2 +1,2 @@
 ## React-Practice-Projects
-#### Background Changer, Password Generator, Currency Convertor
+ Background Changer, Password Generator, Currency Convertor
